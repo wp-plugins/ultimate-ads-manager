@@ -129,7 +129,7 @@ class UAM_Config {
             'click' => 1
         );
 
-        UAM_Config::$ENV = 'development';
+        UAM_Config::$ENV = 'production';
 
         //UAM_Config::$custom_post_slug =
 
