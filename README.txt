@@ -41,7 +41,8 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-Feel free to ask me any question!
+= How to display a created advertisement? =
+Go to Appearance/Widgets and drag the Ultimate Ads Manager widget into a Widget Area (e.g. Sidebar).
 
 == Screenshots ==
 
