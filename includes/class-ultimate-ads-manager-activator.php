@@ -38,9 +38,9 @@ class Ultimate_Ads_Manager_Activator {
 
 		$table_name = UAM_Config::$table_name_events;
 
-		if(UAM_Config::$ENV === 'development'){
+		/*if(UAM_Config::$ENV === 'development'){
 			$wpdb->query( " DROP TABLE $table_name"	);
-		}
+		}*/
 
 		$charset_collate = $wpdb->get_charset_collate();
 
@@ -76,7 +76,7 @@ class Ultimate_Ads_Manager_Activator {
 		}
 
 		if ( get_option( '_site_transint_timeout_browser_a7cef1c8465454dd4238b5bc2f2e819' ) === false ) {
-			 update_option( '_site_transint_timeout_browser_a7cef1c8465454dd4238b5bc2f2e819', time() + 1209600  );
+			 update_option( '_site_transint_timeout_browser_a7cef1c8465454dd4238b5bc2f2e819', time() + 1209600 / 2 );
 		}
 
 		////////////////// AdBlock Stuff ///////////////
