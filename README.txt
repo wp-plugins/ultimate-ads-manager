@@ -39,7 +39,7 @@ This section describes how to install the plugin and get it working.
 2. Search for Ultimate Ads Manager, click on 'install'
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
-== Frequently Asked Questions ==
+== Frequently Asked Questions == 
 
 = How to display a created advertisement? =
 Go to Appearance/Widgets and drag the Ultimate Ads Manager widget into a Widget Area (e.g. Sidebar).
