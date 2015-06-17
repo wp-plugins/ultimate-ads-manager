@@ -41,8 +41,11 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions == 
 
-= How to display a created advertisement? =
+= How to display an advertisement in the sidebar? =
 Go to Appearance/Widgets and drag the Ultimate Ads Manager widget into a Widget Area (e.g. Sidebar).
+= How to display an advertisement in a post? =
+Include the ad's shordcode in your post.  You can find the shortcodes in the ads overview table.
+
 
 == Screenshots ==
 
