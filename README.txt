@@ -2,7 +2,7 @@
 Contributors: alexander_schwabauer, denis_golovin
 Tags: ad, admin, adsense, adserver, advertisement, advertising, affiliate, banner, google, manager, rotate, widget, adbrite, adgridwork, adify, adpinion, adroll, ads, banners, chitika, cj, commercial, commission, crispads, dfp, income, junction, link, media, money, plugin, random, referral, revenue, rotator, seo, server, shoppingads, widgetbucks, wptouch, ad management, ad manager, Ad Rotator, Ad Server, admanager, banner management, banner manager, image, images, Post, sidebar, short-code
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.2.2
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
